@@ -1,0 +1,5 @@
+create table in mysql:
+
+mysql> CREATE TABLE Employee ( id smallint unsigned not null auto_increment, nam
+e varchar(20) not null, salary int, designation varchar(20),constraint pk_employ
+ee primary key (id) );
