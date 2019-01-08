@@ -1,4 +1,4 @@
-package com.jbhunt;
+package com.jbhunt.beans;
 
 import java.util.Arrays;
 
